@@ -1,0 +1,5 @@
+id,site,month,total,asked_to_match,successful_match,percent_asked,percent_matched,match_rate,final_dec
+1,Leeds,2017-05-31,100,30,25,30,25,90,20
+2,Leeds,2017-03-31,100,31,26,31,26,90,19
+3,Bolton,2017-03-31,100,30,25,30,25,90,13
+4,Bolton,2017-06-30,100,29,28,39,28,90,22
