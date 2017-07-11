@@ -8,3 +8,12 @@ No provision made for non-ASCII encoding or fancy quoted CSV formats.
 
 Totally unsupported - use at your own risk.
 
+Usage:
+
+```
+virtualenv venv
+pip install -r requirements.txt
+. venv/bin/activate
+FLASK_APP=app.py flask run
+
+```
