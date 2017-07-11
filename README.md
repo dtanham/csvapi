@@ -15,5 +15,7 @@ virtualenv venv
 pip install -r requirements.txt
 . venv/bin/activate
 FLASK_APP=app.py flask run
-
 ```
+
+Then visit [http://localhost:5000/](http://localhost:5000/), [http://localhost:5000/Leeds](http://localhost:5000/Leeds), [http://localhost:5000/Leeds/2017-05-31](http://localhost:5000/Leeds/2017-05-31) etc. (assuming you're using the sample ```data.csv```).
+
