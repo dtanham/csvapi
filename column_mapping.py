@@ -1,5 +1,4 @@
 # Define an array mapping the array slot to a place in the REST hierarchy: (position,name)
-# Use 0 to specify a column that won't be included in the hierarchy.
 # Ordering in REST hierarchy starts at 1
 # Headers given here must match CSV column headers
 
